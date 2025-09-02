@@ -1,9 +1,5 @@
 # Portfolio Optimization of Factor-Based Risk Model using Machine Learning 
 
-This repository highlights my recent work at the intersection of **quantitative finance**, **statistical learning**, and **portfolio optimization**. The materials are written to be clear, reproducible, and interview-friendly for quantitative roles in New York City.
-
----
-
 ## Featured Research Project
 ### Portfolio Optimization of a Factor-Based Risk Model using Machine Learning
 
